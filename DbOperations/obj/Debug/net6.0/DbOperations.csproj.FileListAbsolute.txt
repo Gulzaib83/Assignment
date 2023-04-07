@@ -1,0 +1,15 @@
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\bin\Debug\net6.0\DbOperations.deps.json
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\bin\Debug\net6.0\DbOperations.dll
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\bin\Debug\net6.0\DbOperations.pdb
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\bin\Debug\net6.0\Persistance.dll
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\bin\Debug\net6.0\Persistance.pdb
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.csproj.AssemblyReference.cache
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.AssemblyInfoInputs.cache
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.AssemblyInfo.cs
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.csproj.CoreCompileInputs.cache
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.csproj.CopyComplete
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.dll
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\refint\DbOperations.dll
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\DbOperations.pdb
+C:\Users\GulzebKhan\source\repos\Assignment\DbOperations\obj\Debug\net6.0\ref\DbOperations.dll

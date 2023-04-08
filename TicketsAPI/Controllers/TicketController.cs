@@ -21,6 +21,10 @@ namespace TicketsAPI.Controllers
             _logger = logger;
         }
 
+        public TicketController()
+        {
+        }
+
         [HttpGet("GetUser")]
         public ResponseObject<List<User>> GetUser()
         {
